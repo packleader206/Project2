@@ -20,11 +20,8 @@ Sell Something is a full-stack application that provides a market place for user
 ## Contributors:
 
 - <strong>Al Young</strong>
-<br>
 - <strong>Ray Wasif</strong>
-<br>
 - <strong>Heidi Jansen van Rensburg</strong>
-<br>
 - <strong>Wilder Molyneux</strong>
 <br>
 <hr>
