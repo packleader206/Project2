@@ -43,22 +43,27 @@ Once you have MySQL installed, you will need to create a database using your myS
            
            3. npm install ENTER
            
-<strong>Once the files have been downloaded to your local machine, navigate to the "config" folder and open up the file named "config.json" and change the "password" field to match the password you set up for your mySQL database. Then, navigate to the "server.js" file and check to make sure the "PORT" that you set-up for your mySQL server matches (line 13 - currently set at PORT 3000).  Make sure to save the changes for both of these files that you made the changes to. You are now ready to run the App!             
+<strong>Once the files have been downloaded to your local machine, navigate to the "config" folder and open up the file named "config.json", then change the "password" field to match the password you set up for your mySQL database. Next, navigate to the "server.js" file and check to make sure the "PORT" that you set-up for your mySQL server matches what's in the file (line 13, currently set at PORT 3000).  Make sure to save the changes for both of these files. You are now ready to run the App!             
                       
            
 ## Running the App:
 
-           1. Start the server by running the command "node server.js"
+           1.  Using your cmd prompt, navigate to the "Project2" directory that you cloned in the previous step.
            
-           2. Then open your browser and go to http://localhost:your_MySQL_PORT_Number 
+           2.  Run the command "node server.js" to start the server.
+           
+           3. Then, open up your browser and go to http://localhost:your_MySQL_PORT_Number
 
 
-## Instructions:
+## Using the App:
 
-Users must sign-up and create a login using email and password in order to use the app. Once logged in, users can browse items currently for sale posted by other users, and also create and post items of their own for sale.  Once registered, users have access to a profile page that allows them to manage their items currently listed for sale.   
+Users must register and create login credentials, using their email and password, in order to use the app.  Once login is established, users can browse items currently for sale posted by other users, and also create and post items of their own for sale.  Registered users have access to a profile page which allows them to manage the items they currently have listed for sale.   
 
 ## Screenshots:
             
- <img src="https://packleader206.github.io/burger/public/assets/img/screenshot.png" alt="Screenshot">
- 
+ <img src="https://packleader206.github.io/Project2/public/images/login_screenshot.png" alt="Login Screenshot">
+ <br>
+  <img src="https://packleader206.github.io/Project2/public/images/main_screenshot.png" alt="Login Screenshot">
+ <br>
+  <img src="https://packleader206.github.io/Project2/public/images/addItem_screenshot.png" alt="Login Screenshot">
  <br>
