@@ -43,7 +43,7 @@ Once you have MySQL installed, you will need to create a database using your myS
            
            3. npm install ENTER
            
-<strong>Once the files have been downloaded to your local machine, navigate to the "config" folder and open up the file named "config.json" and change the "password" field to match the password you set up for your mySQL database. Then, navigate to the "server.js" file and check to make sure the "PORT" that you set-up for your mySQL server matches (line 13 - currently set at PORT 3000).  Make sure to save the changes for both of these files that you made the changes to. You are now ready to run the App!             
+<strong>Once the files have been downloaded to your local machine, navigate to the "config" folder and open up the file named "config.json", then change the "password" field to match the password you set up for your mySQL database. Next, navigate to the "server.js" file and check to make sure the "PORT" that you set-up for your mySQL server matches what's in the file (line 13, currently set at PORT 3000).  Make sure to save the changes for both of these files. You are now ready to run the App!             
                       
            
 ## Running the App:
@@ -57,7 +57,7 @@ Once you have MySQL installed, you will need to create a database using your myS
 
 ## Using the App:
 
-Users must sign-up and create a login using email and password in order to use the app. Once logged in, users can browse items currently for sale posted by other users, and also create and post items of their own for sale.  Once registered, users have access to a profile page that allows them to manage their items they currently have listed for sale.   
+Users must register and create a login credentials using their email and password in order to use the app.  Once login is established, users can browse items currently for sale posted by other users, and also create and post items of their own for sale.  Registered users have access to a profile page which allows them to manage the items they currently have listed for sale.   
 
 ## Screenshots:
             
