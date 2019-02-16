@@ -19,15 +19,17 @@ Sell Something is a full-stack application that provides a market place for user
 
 ## Contributors:
 
-<strong>Al Young</strong>
+- <strong>Al Young</strong>
 <br>
-<strong>Ray Wasif</strong>
+- <strong>Ray Wasif</strong>
 <br>
-<strong>Heidi Jansen van Rensburg</strong>
+- <strong>Heidi Jansen van Rensburg</strong>
 <br>
-<strong>Wilder Molyneux</strong>
+- <strong>Wilder Molyneux</strong>
 <br>
 <hr>
+
+## [Click Here for a Live Demo](https://thawing-reaches-85632.herokuapp.com/)
 
 ## Local Setup:
 
