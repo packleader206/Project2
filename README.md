@@ -20,9 +20,13 @@ Sell Something is a full-stack application that provides a market place for user
 ## Contributors:
 
 <strong>Al Young</strong>
+<br>
 <strong>Ray Wasif</strong>
+<br>
 <strong>Heidi Jansen van Rensburg</strong>
+<br>
 <strong>Wilder Molyneux</strong>
+<br>
 <hr>
 
 ## Local Setup:
@@ -35,7 +39,7 @@ Once you have MySQL installed, you will need to create a database using your myS
 
 <strong>Once you have the sellsomething_db database set up, run the following commands at your command prompt:</strong>
 
-           1. git clone  ENTER
+           1. git clone https://github.com/packleader206/Project2.git ENTER
            
            2. cd project2 ENTER
            
