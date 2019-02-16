@@ -59,6 +59,9 @@ Users must sign-up and create a login using email and password in order to use t
 
 ## Screenshots:
             
- <img src="https://packleader206.github.io/burger/public/assets/img/screenshot.png" alt="Screenshot">
- 
+ <img src="https://packleader206.github.io/Project2/public/images/login_screenshot.png" alt="Login Screenshot">
+ <br>
+  <img src="https://packleader206.github.io/Project2/public/images/main_screenshot.png" alt="Login Screenshot">
+ <br>
+  <img src="https://packleader206.github.io/Project2/public/images/addItem_screenshot.png" alt="Login Screenshot">
  <br>
