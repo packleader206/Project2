@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Sell Something is a full-stack application that provides a market place for users to post and browse items for sale. It uses Node & MySQL to query and route data to the app & Express Handlebars to generate HTML.
+Sell Something is a full-stack application that provides a market place for users to list and browse items for sale. It uses Node & MySQL to query and route data to the app & Express Handlebars to generate HTML.
 
 ## Technologies Used:
 - HTML
