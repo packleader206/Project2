@@ -24,7 +24,7 @@ Sell Something is a full-stack application that provides a market place for user
 - <strong>Wilder Molyneux</strong>
 <hr>
 
-## [Click Here for a Live Demo](https://thawing-reaches-85632.herokuapp.com/)
+## Heroku Deployed Live Demo[HERE](https://thawing-reaches-85632.herokuapp.com/)
 
 ## Local Setup:
 
