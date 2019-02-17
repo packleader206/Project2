@@ -15,7 +15,6 @@ Sell Something is a full-stack application that provides a market place for user
 - NPM Body-Parser
 - NPM Method-Override
 - NPM Multer-S3
-- NPM ejs
 
 ## Contributors:
 
@@ -57,13 +56,13 @@ Once you have MySQL installed, you will need to create a database using your myS
 
 ## Using the App:
 
-Users must register and create login credentials, using their email and password, in order to use the app.  Once login is established, users can browse items currently for sale posted by other users, and also create and post items of their own for sale.  Registered users have access to a profile page which allows them to manage the items they currently have listed for sale.   
+Users must register and create login credentials using their email and password, in order to use the app.  Once login is established, users can browse items currently for sale posted by other users, and also create and post items of their own for sale.  Registered users have access to a profile page which allows them to manage the items they currently have listed for sale.   
 
 ## Screenshots:
             
  <img src="https://packleader206.github.io/Project2/public/images/login_screenshot.png" alt="Login Screenshot">
  <br>
-  <img src="https://packleader206.github.io/Project2/public/images/main_screenshot.png" alt="Login Screenshot">
+  <img src="https://packleader206.github.io/Project2/public/images/main_screenshot.png" alt="Main Screenshot">
  <br>
-  <img src="https://packleader206.github.io/Project2/public/images/addItem_screenshot.png" alt="Login Screenshot">
+  <img src="https://packleader206.github.io/Project2/public/images/addItem_screenshot.png" alt="Add Item Screenshot">
  <br>
